@@ -6,4 +6,5 @@
 
 # 3. Generate the API key from the Groq cloud
 
-# 4. $env:GROQ_API_KEY = "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"
+# 4. $env:GROQ_API_KEY = "your groq key here "
+# for ex: gsk....ypjoj
